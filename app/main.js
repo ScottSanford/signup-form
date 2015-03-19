@@ -1,2 +1,4 @@
-angular.module('signup', [])
+angular.module('signup', [
+		'ngMockE2E'
+	])
 	
